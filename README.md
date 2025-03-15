@@ -1,6 +1,6 @@
+#👋 Abdul Muizz
 <p align="center">
-  <strong style="font-size: 24px;">👋 Abdul Muizz</strong><br>
-  <img src="https://github.com/Abdul-Muizz.png" alt="Abdul Muizz" width="150" 
+  <img src="https://github.com/a-muizz28.png" alt="Abdul Muizz" width="150" 
   style="border-radius: 50%; border: 5px solid #cb3470;">
 </p>
 
