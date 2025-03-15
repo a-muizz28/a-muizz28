@@ -43,11 +43,11 @@ Currently, I am:
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Muizz&show_icons=true&theme=dark&title_color=cb3470&text_color=a9fef7&bg_color=141321&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Muizz&langs_count=8&layout=compact&theme=dark&title_color=cb3470&text_color=a9fef7&bg_color=141321&locale=en" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Muizz&show_icons=true&theme=dark&title_color=cb3470&text_color=a9fef7&bg_color=141321&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Muizz&count_private=true&show_icons=true&theme=dark&title_color=cb3470&text_color=a9fef7&bg_color=141321&locale=en" alt="GitHub Stats" />
 </p>
 
 ### 🌐 Connect With Me
