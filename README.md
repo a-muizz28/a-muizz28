@@ -1,6 +1,6 @@
 # 👋 Abdul Muizz
 <p align="center">
-  <img src="https://github.com/Abdul-Muizz.png" alt="Abdul Muizz" width="150" style="border-radius: 50%;">
+  <img src="https://github.com/a-muizz28.png" alt="Abdul Muizz" width="150" style="border-radius: 50%;">
 </p>
 
 ### 🚀 About Me
