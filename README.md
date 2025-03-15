@@ -1,7 +1,9 @@
-# 👋 Abdul Muizz
 <p align="center">
-  <img src="https://github.com/a-muizz28.png" alt="Abdul Muizz" width="150" style="border-radius: 50%;">
+  <strong style="font-size: 24px;">👋 Abdul Muizz</strong><br>
+  <img src="https://github.com/Abdul-Muizz.png" alt="Abdul Muizz" width="150" 
+  style="border-radius: 50%; border: 5px solid #cb3470;">
 </p>
+
 
 ### 🚀 About Me
 I'm a passionate **Software Developer & Tech Enthusiast** currently in my **4th semester of university**, exploring various technologies to build impactful software solutions. I enjoy working on **app development, backend systems, and AI-driven projects**.
