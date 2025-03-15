@@ -49,18 +49,18 @@ Currently, I am:
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Muizz&langs_count=8&layout=compact&theme=dark&title_color=cb3470&text_color=a9fef7&bg_color=141321&exclude_lang=Jupyter%20Notebook" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-muizz28&langs_count=8&layout=compact&theme=dark&title_color=cb3470&text_color=a9fef7&bg_color=141321&exclude_lang=Jupyter%20Notebook" alt="Top Languages" />
 </p>
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Muizz&count_private=true&show_icons=true&theme=dark&title_color=cb3470&text_color=a9fef7&bg_color=141321&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=a-muizz28&count_private=true&show_icons=true&theme=dark&title_color=cb3470&text_color=a9fef7&bg_color=141321&locale=en" alt="GitHub Stats" />
 </p>
 
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-muizz-27783034a/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> </a>
-  <a href="https://github.com/Abdul-Muizz" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/> </a>
+  <a href="https://github.com/a-muizz28" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/> </a>
   <a href="mailto:work.abdulmuizz@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height = "25" width="40">
 </p>
 
