@@ -59,7 +59,7 @@ Currently, I am:
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-muizz-27783034a/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> </a>
   <a href="https://github.com/Abdul-Muizz" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/> </a>
-  <a href="mailto:work.abdulmuizz@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height = "30" width="40">
+  <a href="mailto:work.abdulmuizz@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height = "25" width="40">
 </p>
 
 🚀 **Always eager to collaborate and build something amazing!**
