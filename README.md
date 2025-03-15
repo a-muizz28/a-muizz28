@@ -1,4 +1,7 @@
 # 👋 Abdul Muizz
+<p align="center">
+  <img src="https://github.com/Abdul-Muizz.png" alt="Abdul Muizz" width="150" style="border-radius: 50%;">
+</p>
 
 ### 🚀 About Me
 I'm a passionate **Software Developer & Tech Enthusiast** currently in my **4th semester of university**, exploring various technologies to build impactful software solutions. I enjoy working on **app development, backend systems, and AI-driven projects**.
