@@ -1,4 +1,5 @@
-###👋 Abdul Muizz
+<h1 align="center">👋 Abdul Muizz</h1>
+
 <p align="center">
   <img src="https://github.com/a-muizz28.png" alt="Abdul Muizz" width="150" 
   style="border-radius: 50%; border: 5px solid #cb3470;">
