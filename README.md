@@ -15,7 +15,7 @@ I'm a passionate **Software Developer & Tech Enthusiast** currently in my **4th 
 - **Frontend & UI Libraries:** MudBlazor, TailwindCSS
 - **Version Control:** Git, GitHub
 - **Cloud & Deployment:** Ubuntu Server, DigitalOcean, Namecheap SSL
-- **Other Interests:** AI Integration, Social Media Automation, Cybersecurity
+- **Other Interests:** AI Integration, Social Media Automation
 
 ### 📚 Learning & Goals
 Currently, I am:
@@ -34,7 +34,7 @@ Currently, I am:
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="Kotlin" width="80">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Boot" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React"height = "40" width="40">
 </p>
 
 </p>
