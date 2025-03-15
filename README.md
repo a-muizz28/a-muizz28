@@ -12,7 +12,7 @@ I'm a passionate **Software Developer & Tech Enthusiast** currently in my **4th 
 - **Backend Development:** Spring Boot,
 - **Mobile Development:** Kotlin (Jetpack Compose), React Native (Learning Phase)
 - **Database:** Firebase, SQL Server, MySQL
-- **Frontend & UI Libraries:** MudBlazor, TailwindCSS
+- **Frontend & UI Libraries:** TailwindCSS
 - **Version Control:** Git, GitHub
 - **Cloud & Deployment:** Ubuntu Server, DigitalOcean, Namecheap SSL
 - **Other Interests:** AI Integration, Social Media Automation
