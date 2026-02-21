@@ -1,7 +1,7 @@
 <h1 align="center">👋 Abdul Muizz</h1>
 
 ### 🚀 About Me
-I'm a passionate **Software Developer & Tech Enthusiast** currently in my **4th semester of university**, exploring various technologies to build impactful software solutions. I enjoy working on **app development, backend systems, and AI-driven projects**.
+I'm a passionate **Software Developer & Tech Enthusiast** currently in my **6th semester of university**, exploring various technologies to build impactful software solutions. I enjoy working on **app development, backend systems, and AI-driven projects**.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Abdul-Muizz&label=Profile%20views&color=0e75b6&style=flat" />
